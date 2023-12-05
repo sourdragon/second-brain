@@ -18,3 +18,5 @@ There are two modes of thinking namely
 
 | | *In the above the bricks represent a chunk* |  |
 | -------- | -------- | -------- |
+
+Switching between the two modes as in pomodoro helps in preventing Einstellung.
