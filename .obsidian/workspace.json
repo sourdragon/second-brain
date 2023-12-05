@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "a0f746a40d6bd568",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b86d7b836dfc5ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7c31f0bc548c0c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f52a9052993ed73c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1542c89ce696ea1e",
+        "type": "tabs",
+        "dimension": 64.19161676646706,
+        "children": [
+          {
+            "id": "be554534945b6123",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "203951aa87aaff26",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb4b42fbeacf5b5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "7043e49d18dab0a7",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "5d9f776b331b6164",
+        "type": "tabs",
+        "dimension": 35.808383233532936,
+        "children": [
+          {
+            "id": "5d720ec7cef0811f",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 273
+  },
+  "right": {
+    "id": "77331923cc99d68a",
+    "type": "split",
+    "children": [
+      {
+        "id": "867c8ba9fbd810b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "709a2d7c0c6a299a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e4eca5697b2b1569",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "01ff0550c3f7797b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "85047a6232aff2f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9b423710b468efae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a7c31f0bc548c0c0",
+  "lastOpenFiles": [
+    "Spaces/Home/PsychologyPhilosophy/Chunking.md",
+    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
+    "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
+    "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
+    "Spaces/Home/PsychologyPhilosophy/Canvas.canvas",
+    "Excalidraw/Drawing 2023-12-02 17.27.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-02 17.26.58.excalidraw.md",
+    "Pasted image 20231202163948.png",
+    "Excalidraw",
+    "Pasted image 20231202171541.png",
+    "Spaces/Home/PsychologyPhilosophy/.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
+    "Spaces/Home/PsychologyPhilosophy",
+    "Spaces/Home/Untitled.md",
+    "Changing the title.md",
+    "wdsf.md",
+    "Spaces/Home",
+    "Spaces",
+    "fw.md",
+    "test.md",
+    "sdf-1 1.md",
+    "sdf-2.md",
+    "sdf-1.md",
+    "sdf.md"
+  ]
+}
