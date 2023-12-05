@@ -11,8 +11,12 @@
             "id": "a7c31f0bc548c0c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md"
+              }
             }
           },
           {
@@ -175,10 +183,11 @@
   },
   "active": "a7c31f0bc548c0c0",
   "lastOpenFiles": [
+    "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
+    "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
-    "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Spaces/Home/PsychologyPhilosophy/Canvas.canvas",
     "Excalidraw/Drawing 2023-12-02 17.27.55.excalidraw.md",
     "Excalidraw/Drawing 2023-12-02 17.26.58.excalidraw.md",
@@ -187,7 +196,6 @@
     "Pasted image 20231202171541.png",
     "Spaces/Home/PsychologyPhilosophy/.md",
     "Spaces/Home/Home.md",
-    "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
     "Spaces/Home/PsychologyPhilosophy",
     "Spaces/Home/Untitled.md",
     "Changing the title.md",
