@@ -6,7 +6,7 @@ sticker: lucide//book-open-check
 [[Modes Of Thinking]]
 [[Chunking]]
 Einstellung and Illusion of Competance
-
+Interleaving(stuyding and relating academic / non academic subjects)
 ## Sleep 
 - Sleep wipes out the neurotoxins that inhibit thinking.
 - Go over what you learnt just before sleeping

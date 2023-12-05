@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccd4d544ecaea5de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md"
+                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md"
               }
             }
           },
@@ -181,12 +194,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7c31f0bc548c0c0",
+  "active": "ccd4d544ecaea5de",
   "lastOpenFiles": [
-    "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
-    "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
+    "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
+    "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
+    "Pasted image 20231205135001.png",
     "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
     "Spaces/Home/PsychologyPhilosophy/Canvas.canvas",
     "Excalidraw/Drawing 2023-12-02 17.27.55.excalidraw.md",

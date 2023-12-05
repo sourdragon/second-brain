@@ -5,5 +5,5 @@ There are 3 types of neuro-modulators that influence how an neuron in the brain 
 Namely
 1. Dopamine 
 	- 
-1. Acetylcholine
-2. Serotonin
+2. Acetylcholine
+3. Serotonin
