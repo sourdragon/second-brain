@@ -35,9 +35,7 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
-    "Spaces/Home/Spaces/Home/PsychologyPhilosophy",
-    "Spaces/Home/Spaces/Home/PsychologyPhilosophy"
+    "/"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
