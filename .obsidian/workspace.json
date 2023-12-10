@@ -11,9 +11,11 @@
             "id": "a7c31f0bc548c0c0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Web Design"
+                "file": "Spaces/Home/Web Design/Typography.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Web Design/Typography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Web Design/Typography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Web Design/Typography.md"
+              }
             }
           },
           {
@@ -177,6 +183,7 @@
   },
   "active": "a7c31f0bc548c0c0",
   "lastOpenFiles": [
+    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/Web Design",
