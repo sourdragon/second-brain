@@ -61,7 +61,8 @@
     "spaces://$tags"
   ],
   "rootSpaces": [
-    "Spaces/Home/PsychologyPhilosophy"
+    "Spaces/Home/PsychologyPhilosophy",
+    "Spaces/Home/Web Design"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
