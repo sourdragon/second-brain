@@ -15,5 +15,4 @@ Interleaving(stuyding and relating academic / non academic subjects)
 - During sleep the brain organised the stuff it learnt.
 
 
-
 Related : [Summary Article](https://www.sonnybrown.net/learning-how-to-learn-summary-notes/)
