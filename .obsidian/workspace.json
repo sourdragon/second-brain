@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9b86d7b836dfc5ab",
+        "id": "eeace0c253483ed8",
         "type": "tabs",
         "children": [
           {
-            "id": "a7c31f0bc548c0c0",
+            "id": "3f8565ad3dfe4d9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccd4d544ecaea5de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
+                "file": "Spaces/Home/Web Design/Fonts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,7 +31,6 @@
       {
         "id": "1542c89ce696ea1e",
         "type": "tabs",
-        "dimension": 64.19161676646706,
         "children": [
           {
             "id": "be554534945b6123",
@@ -91,12 +77,11 @@
         "currentTab": 3
       },
       {
-        "id": "5d9f776b331b6164",
+        "id": "858083aa83a52123",
         "type": "tabs",
-        "dimension": 35.808383233532936,
         "children": [
           {
-            "id": "5d720ec7cef0811f",
+            "id": "ccd4d544ecaea5de",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -123,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,12 +177,24 @@
   },
   "active": "ccd4d544ecaea5de",
   "lastOpenFiles": [
-    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
+    "Spaces/Home/Web Design/Fonts.md",
+    "Spaces/Home/Web Design/Web Design.md",
+    "Spaces/Home/Web Design",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home/Home.md",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
-    "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
+    "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
+    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
-    "Pasted image 20231205135001.png",
+    "Modes Of Thinking-20231205141826743.webp",
+    "Pasted image 20231202163948.png.md",
+    "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
+    "The Habit Forming Loop-20231205140724502.webp",
+    "5d28b9ed4ab23b5df2a66f33745f6102.png",
     "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
+    "Chunking-20231205140345952.webp",
+    "Modes Of Thinking-20231205140417542.webp",
+    "Pasted image 20231205135001.png",
     "Spaces/Home/PsychologyPhilosophy/Canvas.canvas",
     "Excalidraw/Drawing 2023-12-02 17.27.55.excalidraw.md",
     "Excalidraw/Drawing 2023-12-02 17.26.58.excalidraw.md",
@@ -209,9 +202,7 @@
     "Excalidraw",
     "Pasted image 20231202171541.png",
     "Spaces/Home/PsychologyPhilosophy/.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home/PsychologyPhilosophy",
-    "Spaces/Home/Untitled.md",
     "Changing the title.md",
     "wdsf.md",
     "Spaces/Home",

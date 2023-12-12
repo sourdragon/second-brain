@@ -1,5 +1,5 @@
 ---
 color: "#2d98da"
-banner: https://images.alphacoders.com/736/736461.png
+banner: 5d28b9ed4ab23b5df2a66f33745f6102.png
 _links: []
 ---
