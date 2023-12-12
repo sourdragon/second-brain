@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Web Design/Typography.md",
+                "file": "Spaces/Home/Journal/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273
+    "width": 254
   },
   "right": {
     "id": "77331923cc99d68a",
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md",
+                "file": "Spaces/Home/Journal/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md",
+                "file": "Spaces/Home/Journal/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md"
+                "file": "Spaces/Home/Journal/Untitled.md"
               }
             }
           },
@@ -208,15 +208,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "532155ee7d32b849",
+  "active": "7ec593d31244b72e",
   "lastOpenFiles": [
-    "Spaces/Home/Web Design/Typography.md",
-    "Spaces/Home/Journal/First File.md",
+    "Spaces/Home/Journal/Untitled.md",
     "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/Journal/First File.md",
+    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
     "Spaces/Home/Web Design/Web Design.md",
-    "Spaces/Home/Journal/Untitled.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/Journal/.md",
     "Spaces/Home/Journal",
