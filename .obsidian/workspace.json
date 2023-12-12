@@ -11,15 +11,38 @@
             "id": "a13143fcf99363ca",
             "type": "leaf",
             "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "Spaces/Home/Journal"
+              }
+            }
+          },
+          {
+            "id": "7ec593d31244b72e",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md",
+                "file": "Spaces/Home/Web Design/Typography.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532155ee7d32b849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md"
+                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md"
               }
             }
           },
@@ -179,16 +202,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a13143fcf99363ca",
+  "active": "532155ee7d32b849",
   "lastOpenFiles": [
+    "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
+    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Journal/First File.md",
+    "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
     "Spaces/Home/Journal/Journal.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home/Web Design/Web Design.md",
+    "Spaces/Home/Journal/Untitled.md",
+    "Spaces/Home/Home.md",
     "Spaces/Home/Journal/.md",
     "Spaces/Home/Journal",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
-    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Web Design/Fonts.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231210210858.png",
@@ -219,9 +245,6 @@
     "Spaces/Home",
     "Spaces",
     "fw.md",
-    "test.md",
-    "sdf-1 1.md",
-    "sdf-2.md",
-    "sdf-1.md"
+    "test.md"
   ]
 }
