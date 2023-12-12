@@ -28,21 +28,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "532155ee7d32b849",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,6 +100,24 @@
             }
           }
         ]
+      },
+      {
+        "id": "0169b670cb45ad8b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532155ee7d32b849",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Journal/First File.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -131,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
+                "file": "Spaces/Home/Journal/First File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
+                "file": "Spaces/Home/Journal/First File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md"
+                "file": "Spaces/Home/Journal/First File.md"
               }
             }
           },
@@ -204,11 +210,11 @@
   },
   "active": "532155ee7d32b849",
   "lastOpenFiles": [
-    "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Journal/First File.md",
-    "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
     "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
+    "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
     "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Journal/Untitled.md",
     "Spaces/Home/Home.md",
