@@ -11,9 +11,11 @@
             "id": "a13143fcf99363ca",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Journal"
+                "file": "Spaces/Home/Journal/First File.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Journal/First File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Journal/First File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Journal/First File.md"
+              }
             }
           },
           {
@@ -175,18 +181,19 @@
   },
   "active": "a13143fcf99363ca",
   "lastOpenFiles": [
+    "Spaces/Home/Journal/First File.md",
     "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Journal/.md",
     "Spaces/Home/Journal",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
-    "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Web Design/Fonts.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231210210858.png",
     "Spaces/Home/Web Design",
     "Spaces/Home/Untitled.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
@@ -215,7 +222,6 @@
     "test.md",
     "sdf-1 1.md",
     "sdf-2.md",
-    "sdf-1.md",
-    "sdf.md"
+    "sdf-1.md"
   ]
 }
