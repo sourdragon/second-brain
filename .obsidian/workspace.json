@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a265055e89d58d73",
+        "id": "c47ac500182ada1e",
         "type": "tabs",
         "children": [
           {
-            "id": "7ec593d31244b72e",
+            "id": "82be02f380ba4785",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Web Design/Typography.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,14 +112,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Journal/Liking Gopali (╥﹏╥) why tho ....md",
+                "file": "Spaces/Home/Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/Liking Gopali (╥﹏╥) why tho ....md",
+                "file": "Spaces/Home/Journal/First File.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/Liking Gopali (╥﹏╥) why tho ....md",
+                "file": "Spaces/Home/Journal/First File.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/Liking Gopali (╥﹏╥) why tho ....md"
+                "file": "Spaces/Home/Journal/First File.md"
               }
             }
           },
@@ -210,19 +209,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8a9f26bef3ea98b1",
+  "active": "532155ee7d32b849",
   "lastOpenFiles": [
-    "Spaces/Home/Web Design/Typography.md",
-    "Spaces/Home/Journal/Liking Gopali (╥﹏╥) why tho ....md",
-    "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/PsychologyPhilosophy/Chunking.md",
     "Spaces/Home/Journal/First File.md",
+    "Spaces/Home/Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
+    "Spaces/Home/Web Design/Typography.md",
+    "Spaces/Home/Journal/Journal.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
     "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/Journal/.md",
     "Spaces/Home/Journal",
-    "Spaces/Home/PsychologyPhilosophy/Chunking.md",
     "Spaces/Home/Web Design/Fonts.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231210210858.png",
