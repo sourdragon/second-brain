@@ -118,7 +118,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/First File.md"
+                "file": "Spaces/Home/PsychologyPhilosophy/Chunking.md"
               }
             }
           },
@@ -209,7 +210,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "532155ee7d32b849",
+  "active": "82be02f380ba4785",
   "lastOpenFiles": [
     "Spaces/Home/Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
     "Spaces/Home/Journal/First File.md",
