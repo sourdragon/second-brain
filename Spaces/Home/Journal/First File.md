@@ -7,7 +7,7 @@ sticker: emoji//1f616
 - You are hopelessly diseased and cant stop thinking about her at times. (or can I? maybe i can stop) 
 
 ####  1. Hmm i do feel at times, she doesnt care for me like
-- When she didnt try to talk to me at flag lounge at the first / second day.
+- When she didnt try to talk to me at flag lounge at the first / second day. I told her that my mental health depends on it. She told shell tell in school. didnt tell... doesnt care about my mental health 😭
 - Like she never tries to open convesations "Fed up of it" she told today 💔 ,but used to 💔, only slight 💔
 - Today, she went to talk with the girls, another talk at lunch plan failure( wait hows that even related, her friends she talks, what's bothering you ) 
 - And for some reason she doesnt show me marks and does to Adesh. doesnt make sense
