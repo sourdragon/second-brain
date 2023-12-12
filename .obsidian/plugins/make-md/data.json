@@ -35,7 +35,11 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "/",
+    "Spaces/Home/Spaces/Home/Web Design",
+    "Spaces/Home/Spaces/Home/Web Design",
+    "Spaces/Home/Spaces/Home/PsychologyPhilosophy",
+    "Spaces/Home/Spaces/Home/PsychologyPhilosophy"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -62,7 +66,8 @@
   ],
   "rootSpaces": [
     "Spaces/Home/PsychologyPhilosophy",
-    "Spaces/Home/Web Design"
+    "Spaces/Home/Web Design",
+    "Spaces/Home/Journal"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
