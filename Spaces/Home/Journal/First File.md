@@ -28,4 +28,5 @@ You know what , fug it . i do ~~not~~ care, enough caring. Lets just see what ha
 
 #### 2. I get sad feelings about leaving her and the little time i have
 - You should be more worried about family time.
-- But its fine , i dont think i will ever once more "miss" a person ever again.
+- But its fine , i dont think i will ever once more "miss" a person ever again. First time "feelings"...
+- 
