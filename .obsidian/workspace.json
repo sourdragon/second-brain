@@ -11,9 +11,11 @@
             "id": "a7c31f0bc548c0c0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Journal"
+                "file": "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -27,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
+                "file": "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
+                "file": "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md"
+                "file": "Spaces/Home/Journal/Pills to swallow(Reality hurts).md"
               }
             }
           },
@@ -190,10 +191,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "411ab5374ba68de2",
+  "active": "a7c31f0bc548c0c0",
   "lastOpenFiles": [
-    "Pasted Image 20231213205354_887.png",
+    "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
     "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
+    "Pasted Image 20231213205517_101.png",
+    "Pasted Image 20231213205354_887.png",
     "Excalidraw/Drawing 2023-12-13 20.48.55.excalidraw.md",
     "Excalidraw",
     "Spaces/Home/Journal/Journal.md",
@@ -224,7 +227,6 @@
     "Excalidraw/Drawing 2023-12-02 17.27.55.excalidraw.md",
     "Excalidraw/Drawing 2023-12-02 17.26.58.excalidraw.md",
     "Pasted image 20231202163948.png",
-    "Pasted image 20231202171541.png",
     "Spaces/Home/PsychologyPhilosophy/.md",
     "Spaces/Home/PsychologyPhilosophy",
     "Spaces/Home/Untitled.md",
