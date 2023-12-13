@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Web Design/Web Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Web Design/Web Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Web Design/Web Design.md"
+              }
             }
           },
           {
@@ -175,7 +179,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5d720ec7cef0811f",
+  "active": "281c0eb6be1a2aef",
   "lastOpenFiles": [
     "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Web Design/Typography.md",
