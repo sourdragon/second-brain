@@ -5,3 +5,4 @@ A list of hard pills to swallow
 - [x] You might not meet her in the future. (today )
 - [x] You might not stay in touch due to circumstances. (today)
 - [ ] You are leaving this school (someday)
+*maybe Incomplete list btw *
