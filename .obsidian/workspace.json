@@ -20,16 +20,6 @@
             }
           },
           {
-            "id": "411ab5374ba68de2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "a46821d0535742b3",
             "type": "leaf",
             "state": {
@@ -39,8 +29,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
+                "file": "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
+                "file": "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md"
+                "file": "Spaces/Home/Journal/Pills to swallow(Reality hurts).md"
               }
             }
           },
@@ -203,10 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "411ab5374ba68de2",
+  "active": "a7c31f0bc548c0c0",
   "lastOpenFiles": [
-    "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
     "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
+    "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
     "Pasted Image 20231213211117_053.png",
     "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
     "Pasted Image 20231213210709_390.png",
