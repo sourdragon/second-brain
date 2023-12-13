@@ -3,8 +3,7 @@ sticker: lucide//brain
 ---
 #Psychology 
 up: [[Learning How to Learn]]
-![[Pasted image 20231202163948.png]]
-*The lines in the above depict a thought process*
+![[Modes Of Thinking-20231205141826743.webp]]*The lines in the above depict a thought process*
 
 There are two modes of thinking namely
 ## Focused Mode of thinking
@@ -20,3 +19,4 @@ There are two modes of thinking namely
 | -------- | -------- | -------- |
 
 Switching between the two modes as in pomodoro helps in preventing Einstellung.
+![[Modes Of Thinking-20231205140417542.webp]]

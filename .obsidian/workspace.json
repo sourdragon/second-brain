@@ -16,8 +16,21 @@
                 "path": "Spaces/Home/Web Design"
               }
             }
+          },
+          {
+            "id": "671b42ad43cd96f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Web Design/Web Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Web Design/Web Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Web Design/Web Design.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -179,9 +192,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "281c0eb6be1a2aef",
+  "active": "671b42ad43cd96f5",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Spaces/Home/Web Design/Web Design.md",
+    "The Habit Forming Loop-20231205140724502.webp",
+    "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
+    "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
+    "Spaces/Home/Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
+    "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/Journal/First File.md",
+    "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
+    "Spaces/Home/Journal",
+    "Modes Of Thinking-20231205141826743.webp",
+    "Modes Of Thinking-20231205140417542.webp",
+    "Chunking-20231205140345952.webp",
+    "5d28b9ed4ab23b5df2a66f33745f6102.png",
     "Spaces/Home/Web Design/Typography.md",
     "Pasted image 20231210210858.png",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
@@ -209,7 +235,6 @@
     "test.md",
     "sdf-1 1.md",
     "sdf-2.md",
-    "sdf-1.md",
-    "sdf.md"
+    "sdf-1.md"
   ]
 }
