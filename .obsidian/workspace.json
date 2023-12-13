@@ -13,24 +13,11 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/Web Design"
-              }
-            }
-          },
-          {
-            "id": "671b42ad43cd96f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
+                "path": "Spaces/Home/Journal"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spaces/Home/Journal/Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Spaces/Home/Journal/Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Spaces/Home/Journal/Journal.md"
               }
             }
           },
@@ -192,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "671b42ad43cd96f5",
+  "active": "0400742d0a761eda",
   "lastOpenFiles": [
+    "Spaces/Home/Home.md",
     "conflict-files-obsidian-git.md",
     "Spaces/Home/Web Design/Web Design.md",
     "The Habit Forming Loop-20231205140724502.webp",
@@ -212,7 +200,6 @@
     "Pasted image 20231210210858.png",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/Web Design",
-    "Spaces/Home/Home.md",
     "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
     "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
