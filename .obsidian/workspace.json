@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9b86d7b836dfc5ab",
+        "id": "e6d2e083478279e1",
         "type": "tabs",
         "children": [
           {
-            "id": "a46821d0535742b3",
+            "id": "12b913d6a1807338",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md"
+                "file": "Spaces/Home/Journal/Today's Stuff.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -92,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 336
   },
   "right": {
     "id": "77331923cc99d68a",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
+                "file": "Spaces/Home/Journal/Today's Stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
+                "file": "Spaces/Home/Journal/Today's Stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md"
+                "file": "Spaces/Home/Journal/Today's Stuff.md"
               }
             }
           },
@@ -180,19 +181,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a46821d0535742b3",
+  "active": "12b913d6a1807338",
   "lastOpenFiles": [
+    "Spaces/Home/Journal/Today's Stuff.md",
+    "Spaces/Home/Journal/Journal.md",
+    "Excalidraw/Drawing 2023-12-15 21.56.17.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-13 20.48.55.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-15 21.56.16.excalidraw.md",
+    "2023-12-15.md",
+    "Untitled.canvas",
+    "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
     "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
     "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
-    "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
     "Pasted Image 20231213211117_053.png",
     "Pasted Image 20231213210709_390.png",
     "Pasted Image 20231213210242_744.png",
     "Pasted Image 20231213205517_101.png",
     "Pasted Image 20231213205354_887.png",
-    "Excalidraw/Drawing 2023-12-13 20.48.55.excalidraw.md",
     "Excalidraw",
-    "Spaces/Home/Journal/Journal.md",
     "Spaces/Home/Home.md",
     "conflict-files-obsidian-git.md",
     "Spaces/Home/Web Design/Web Design.md",
@@ -219,9 +225,6 @@
     "Excalidraw/Drawing 2023-12-02 17.26.58.excalidraw.md",
     "Spaces/Home/PsychologyPhilosophy/.md",
     "Spaces/Home/PsychologyPhilosophy",
-    "Spaces/Home/Untitled.md",
-    "Changing the title.md",
-    "wdsf.md",
     "Spaces/Home",
     "Spaces"
   ]
