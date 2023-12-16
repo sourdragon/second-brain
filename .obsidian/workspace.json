@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d6668715044d82e4",
+            "id": "337a97da0e51cf9d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Journal/Stuff to ask Gopali.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d6668715044d82e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/Stuff to ask Gopali.md",
+                "file": "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/Stuff to ask Gopali.md",
+                "file": "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/Stuff to ask Gopali.md"
+                "file": "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md"
               }
             }
           },
@@ -183,13 +196,14 @@
   },
   "active": "d6668715044d82e4",
   "lastOpenFiles": [
+    "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
-    "Spaces/Home/Journal/Stuff to ask Gopali.md",
-    "Spaces/Home/Journal/16-12-23.md",
-    "Spaces/Home/Journal/First File.md",
-    "Spaces/Home/Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
-    "Spaces/Home/Journal/Journal.md",
     "Spaces/Home/Journal/15-12-23.md",
+    "Spaces/Home/Journal/16-12-23.md",
+    "Spaces/Home/Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
+    "Spaces/Home/Journal/Stuff to ask Gopali.md",
+    "Spaces/Home/Journal/First File.md",
+    "Spaces/Home/Journal/Journal.md",
     "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
     "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
     "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
@@ -214,7 +228,6 @@
     "Pasted image 20231210210858.png",
     "Spaces/Home/Web Design",
     "Spaces/Home/Untitled.md",
-    "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Modes Of Thinking-20231205141826743.webp",
