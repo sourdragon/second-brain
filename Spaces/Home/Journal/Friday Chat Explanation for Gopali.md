@@ -9,4 +9,8 @@ sticker: emoji//1f937
 	But it wont last for long thinking
 
 	Feeling was like use go to europe / iit 
-1. 
+6. Then you accepted that you felt like meeting me in future. (i commented its so petty)
+7. Then you asked random question about bus
+8. Then i indirectly asked whether "Are we in a relationship" ...
+9. I told i feel "I think i should be your bf" and how dumb that is, 
+10. Then asked you of impact of me telling crush to you . You told you would feel bad whether or not you told you have a crush.
