@@ -36,7 +36,13 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
+    "Spaces/Home/Spaces/Home/Web Design",
+    "Spaces/Home/Spaces/Home/Web Design",
     "Spaces/Home/Spaces/Home/PsychologyPhilosophy",
+    "Spaces/Home/Spaces/Home/Journal",
+    "Spaces/Home/Spaces/Home/Journal",
+    "Spaces/Home/Spaces/Home/Journal",
+    "Spaces/Home/Spaces/Home/Journal",
     "Spaces/Home/Spaces/Home/Journal",
     "Spaces/Home/Spaces/Home/Journal"
   ],
@@ -65,7 +71,8 @@
   ],
   "rootSpaces": [
     "Spaces/Home/PsychologyPhilosophy",
-    "Spaces/Home/Web Design"
+    "Spaces/Home/Web Design",
+    "Spaces/Home/Journal"
   ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
