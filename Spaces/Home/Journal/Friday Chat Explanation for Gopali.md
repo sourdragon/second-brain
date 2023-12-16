@@ -14,3 +14,5 @@ sticker: emoji//1f937
 8. Then i indirectly asked whether "Are we in a relationship" ...
 9. I told i feel "I think i should be your bf" and how dumb that is, 
 10. Then asked you of impact of me telling crush to you . You told you would feel bad whether or not you told you have a crush.
+11. You asked me of impact in my life. I told of depression , overthinking , coming in dreams and stuff.
+12. 
