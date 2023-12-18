@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2bd502dc59350d6e",
+            "id": "abe6eadffafdd35c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Journal/18-12-23.md",
+                "file": "Spaces/Home/Web Design/Chemistry.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "1542c89ce696ea1e",
         "type": "tabs",
-        "dimension": 70.4191616766467,
+        "dimension": 63.47305389221557,
         "children": [
           {
             "id": "be554534945b6123",
@@ -78,9 +78,9 @@
         "currentTab": 3
       },
       {
-        "id": "858083aa83a52123",
+        "id": "7175048025fb9a60",
         "type": "tabs",
-        "dimension": 29.5808383233533,
+        "dimension": 36.52694610778443,
         "children": [
           {
             "id": "ccd4d544ecaea5de",
@@ -94,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 321
   },
   "right": {
     "id": "77331923cc99d68a",
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Journal/18-12-23.md",
+                "file": "Spaces/Home/Web Design/Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Journal/18-12-23.md",
+                "file": "Spaces/Home/Web Design/Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Journal/18-12-23.md"
+                "file": "Spaces/Home/Web Design/Chemistry.md"
               }
             }
           },
@@ -181,10 +181,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2bd502dc59350d6e",
+  "active": "abe6eadffafdd35c",
   "lastOpenFiles": [
-    "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/Web Design/Chemistry.md",
+    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
+    "Spaces/Home/Web Design/Typography.md",
+    "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Journal/18-12-23.md",
+    "Spaces/Home/Journal/Journal.md",
     "Spaces/Home/Journal/Stuff to ask Gopali.md",
     "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
     "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
@@ -204,10 +208,8 @@
     "Excalidraw",
     "2023-12-15.md",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
-    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
-    "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/Journal/.md",
     "Spaces/Home/Journal",
@@ -216,8 +218,6 @@
     "Pasted image 20231210210858.png",
     "Spaces/Home/Web Design",
     "Spaces/Home/Untitled.md",
-    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
-    "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Modes Of Thinking-20231205141826743.webp",
     "The Habit Forming Loop-20231205140724502.webp",
     "5d28b9ed4ab23b5df2a66f33745f6102.png",
