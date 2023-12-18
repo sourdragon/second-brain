@@ -80,7 +80,7 @@
       {
         "id": "858083aa83a52123",
         "type": "tabs",
-        "dimension": 29.58083832335329,
+        "dimension": 29.5808383233533,
         "children": [
           {
             "id": "ccd4d544ecaea5de",
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md"
+              }
             }
           },
           {
