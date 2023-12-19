@@ -16,8 +16,21 @@
                 "path": "Spaces/Home/Web Design"
               }
             }
+          },
+          {
+            "id": "f79f80a79879dbfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336
+    "width": 336,
+    "collapsed": true
   },
   "right": {
     "id": "77331923cc99d68a",
@@ -108,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Web Design/Web Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Web Design/Web Design.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Web Design/Web Design.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -179,13 +193,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "11fbd6326f4197d6",
+  "active": "f79f80a79879dbfa",
   "lastOpenFiles": [
-    "Spaces/Home/Web Design/Typography.md",
+    "conflict-files-obsidian-git.md",
     "Spaces/Home/Web Design/Web Design.md",
+    "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/Journal/Stuff to ask Gopali.md",
+    "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
+    "Spaces/Home/Journal/16-12-23.md",
+    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Untitled.md",
     "Spaces/Home/Home.md",
-    "Spaces/Home/Journal/Journal.md",
     "Spaces/Home/Journal/15-12-23.md",
     "Excalidraw/Drawing 2023-12-15 21.56.17.excalidraw.md",
     "Excalidraw/Drawing 2023-12-13 20.48.55.excalidraw.md",
@@ -201,7 +219,6 @@
     "Pasted Image 20231213205517_101.png",
     "Pasted Image 20231213205354_887.png",
     "Excalidraw",
-    "conflict-files-obsidian-git.md",
     "The Habit Forming Loop-20231205140724502.webp",
     "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
@@ -218,10 +235,7 @@
     "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
     "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
-    "Spaces/Home/PsychologyPhilosophy/Chunking.md",
     "Spaces/Home/PsychologyPhilosophy/Canvas.canvas",
-    "Excalidraw/Drawing 2023-12-02 17.27.55.excalidraw.md",
-    "Excalidraw/Drawing 2023-12-02 17.26.58.excalidraw.md",
     "Spaces/Home/PsychologyPhilosophy",
     "Spaces/Home",
     "Spaces"

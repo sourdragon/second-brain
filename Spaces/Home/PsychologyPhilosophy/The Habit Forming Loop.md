@@ -1,7 +1,7 @@
 ---
 sticker: lucide//circle-dot
 ---
-![[The Habit Forming Loop-20231205140724502.webp|252]]
+![[The Habit Forming Loop-20231205140724502.webp|363]]
 ### Cue
 - An emotion or a situation that prompts a craving.
 ### Craving
