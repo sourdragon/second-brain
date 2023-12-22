@@ -16,21 +16,8 @@
                 "path": "Spaces/Home/PsychologyPhilosophy"
               }
             }
-          },
-          {
-            "id": "bfe370b59982bf8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336,
-    "collapsed": true
+    "width": 336
   },
   "right": {
     "id": "77331923cc99d68a",
@@ -122,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "conflict-files-obsidian-git.md"
-              }
+              "state": {}
             }
           },
           {
@@ -193,8 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bfe370b59982bf8a",
+  "active": "12b913d6a1807338",
   "lastOpenFiles": [
+    "Spaces/Home/Home.md",
+    "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
+    "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
+    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "conflict-files-obsidian-git.md",
     "Spaces/Home/Web Design/Chemistry.md",
     "Spaces/Home/Journal/18-12-23.md",
@@ -212,7 +198,6 @@
     "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Untitled.md",
-    "Spaces/Home/Home.md",
     "Excalidraw/Drawing 2023-12-15 21.56.17.excalidraw.md",
     "Excalidraw/Drawing 2023-12-13 20.48.55.excalidraw.md",
     "Excalidraw/Drawing 2023-12-15 21.56.16.excalidraw.md",
@@ -225,14 +210,11 @@
     "Pasted Image 20231213205354_887.png",
     "Excalidraw",
     "The Habit Forming Loop-20231205140724502.webp",
-    "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
-    "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/Journal",
     "Modes Of Thinking-20231205141826743.webp",
     "Modes Of Thinking-20231205140417542.webp",
     "Chunking-20231205140345952.webp",
     "5d28b9ed4ab23b5df2a66f33745f6102.png",
-    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/Web Design",
     "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
     "Spaces/Home/PsychologyPhilosophy/Canvas.canvas",
