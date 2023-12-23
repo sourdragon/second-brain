@@ -7,5 +7,6 @@ sticker: emoji//263a-fe0f
 - [ ] Rakshit Reaction or something
 ## Way too lovely dovey kinda questions 
 ##### Should i even ask these. Sound way too bad. 😖 But these stuff can be figured out with time. Now i might feel like asking but these are not necessary so i can just be without knowing
-- [ ] Is it short term for you , and how long think about me after leave
+- [ ] ~~Is it short term for you , and how long think about me after leave~~ this one dum dum 
+- [ ] Do you think im cute, i did of you once.....
 - [ ] Ever couldn't stop thinking about me

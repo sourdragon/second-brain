@@ -13,7 +13,7 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Spaces/Home/PsychologyPhilosophy"
+                "path": "Spaces/Home/Web Design"
               }
             }
           }
@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Web Design/Web Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Web Design/Web Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Web Design/Web Design.md"
+              }
             }
           },
           {
@@ -175,28 +179,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "12b913d6a1807338",
+  "active": "6826c2240fae564f",
   "lastOpenFiles": [
+    "Spaces/Home/Web Design/Typography.md",
+    "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
+    "Spaces/Home/Journal/Stuff to ask Gopali.md",
+    "Spaces/Home/Journal/Journal.md",
+    "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
+    "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
+    "Spaces/Home/Web Design/Web Design.md",
+    "Spaces/Home/Web Design/Chemistry.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "conflict-files-obsidian-git.md",
-    "Spaces/Home/Web Design/Chemistry.md",
     "Spaces/Home/Journal/18-12-23.md",
     "Spaces/Home/Journal/First File.md",
-    "Spaces/Home/Journal/Stuff to ask Gopali.md",
-    "Spaces/Home/Journal/Friday Chat Explanation for Gopali.md",
     "Spaces/Home/Journal/16-12-23.md",
     "Spaces/Home/Journal/15-12-23.md",
-    "Spaces/Home/Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
-    "Spaces/Home/Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
     "Spaces/Home/Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
     "Spaces/Home/Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
     "Spaces/Home/Journal/Pills to swallow(Reality hurts).md",
-    "Spaces/Home/Journal/Journal.md",
-    "Spaces/Home/Web Design/Web Design.md",
-    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Untitled.md",
     "Excalidraw/Drawing 2023-12-15 21.56.17.excalidraw.md",
     "Excalidraw/Drawing 2023-12-13 20.48.55.excalidraw.md",
