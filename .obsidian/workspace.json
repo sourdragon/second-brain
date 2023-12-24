@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Home.md"
+              }
             }
           },
           {
@@ -175,8 +179,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4e75284164a03bbb",
+  "active": "a66190597c00a9eb",
   "lastOpenFiles": [
+    "Spaces/Home/Home.md",
     "Spaces/Home/Personal Journal/Personal Journal.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
@@ -186,7 +191,6 @@
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home/Personal Journal/16-12-23.md",
     "Pasted Image 20231213210242_744.png",
     "Spaces/Home/Personal Journal/15-12-23.md",

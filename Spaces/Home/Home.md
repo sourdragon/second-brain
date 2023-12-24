@@ -8,15 +8,6 @@ const hello = "world 😀";
 ```
 sd
 f
-
-
-
-
-
-
-
-
 sdfsfs
-
 sdf
 
