@@ -11,9 +11,11 @@
             "id": "4e75284164a03bbb",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home"
+                "file": "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -65,15 +67,14 @@
             }
           },
           {
-            "id": "7043e49d18dab0a7",
+            "id": "521e6f8e122873f7",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "5d9f776b331b6164",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,16 +149,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Home.md"
+                "file": "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md"
               }
-            }
-          },
-          {
-            "id": "9b423710b468efae",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -174,26 +167,25 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a66190597c00a9eb",
+  "active": "4e75284164a03bbb",
   "lastOpenFiles": [
     "Spaces/Home/Home.md",
-    "Spaces/Home/Personal Journal/Personal Journal.md",
-    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
-    "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
-    "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
+    "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
+    "Spaces/Home/Web Design/Typography.md",
+    "Spaces/Home/Personal Journal/Pills to swallow(Reality hurts).md",
+    "Spaces/Home/Personal Journal/15-12-23.md",
+    "Spaces/Home/Personal Journal/Personal Journal.md",
+    "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
     "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
     "Spaces/Home/Personal Journal/16-12-23.md",
     "Pasted Image 20231213210242_744.png",
-    "Spaces/Home/Personal Journal/15-12-23.md",
     "The Habit Forming Loop-20231205140724502.webp",
     "Pasted Image 20231213211117_053.png",
     "Chunking-20231205140345952.webp",
@@ -202,7 +194,6 @@
     "Pasted Image 20231213205517_101.png",
     "Pasted Image 20231213210709_390.png",
     "Pasted image 20231205135001.png",
-    "Spaces/Home/Personal Journal/Pills to swallow(Reality hurts).md",
     "Spaces/Home/Personal Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
     "Spaces/Home/Personal Journal/Stuff to ask Gopali.md",
     "Spaces/Home/Personal Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
