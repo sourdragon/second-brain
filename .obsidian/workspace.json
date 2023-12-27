@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9d2a8bff16c42fa3",
+        "id": "5e9bb84e88257f8b",
         "type": "tabs",
         "children": [
           {
-            "id": "7a0720e0fbaedc99",
+            "id": "35f317010cc86cfc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Spaces/Home/Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Spaces/Home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Spaces/Home/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Spaces/Home/Home.md"
               }
             }
           },
@@ -184,7 +181,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7a0720e0fbaedc99",
+  "active": "35f317010cc86cfc",
   "lastOpenFiles": [
     "Spaces/Home/Home.md",
     "Untitled.canvas",
