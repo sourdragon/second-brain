@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "9a1889c92e7afb02",
+        "id": "9d2a8bff16c42fa3",
         "type": "tabs",
         "children": [
           {
-            "id": "4e75284164a03bbb",
+            "id": "7a0720e0fbaedc99",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home/Web Design"
+                "file": "Spaces/Home/Home.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c822ce30b8ad83d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -172,18 +185,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "4e75284164a03bbb",
+  "active": "c822ce30b8ad83d1",
   "lastOpenFiles": [
+    "Spaces/Home/Home.md",
+    "Untitled.md",
+    "Spaces/Home/Web Design/Untitled.md",
     "Spaces/Home/Web Design/Web Design.md",
     "Spaces/Home/Web Design/Typography.md",
     "Spaces/Home/PsychologyPhilosophy/Learning How to Learn.md",
     "Spaces/Home/PsychologyPhilosophy/Modes Of Thinking.md",
     "Spaces/Home/Personal Journal/15-12-23.md",
     "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
-    "Spaces/Home/Home.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/Personal Journal/Pills to swallow(Reality hurts).md",
     "Spaces/Home/Personal Journal/Personal Journal.md",
@@ -210,8 +226,6 @@
     "Spaces/Home/Personal Journal/First File.md",
     "Spaces/Home/Personal Journal/Liking Gopali (╥﹏╥) - the entire saga ....md",
     "Spaces/Home/Personal Journal/Drawing 2023-12-12 20.18.28.excalidraw.md",
-    "Spaces/Home/Untitled.md",
-    "Excalidraw/Drawing 2023-12-15 21.56.17.excalidraw.md",
     "Untitled.canvas",
     "Pasted Image 20231213205354_887.png",
     "Excalidraw",
