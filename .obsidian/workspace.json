@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5e9bb84e88257f8b",
+        "id": "09249af3d38e5562",
         "type": "tabs",
         "children": [
           {
-            "id": "35f317010cc86cfc",
+            "id": "5b4f53a0c3885e33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Home.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -74,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "5d9f776b331b6164",
@@ -109,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "Spaces/Home/Personal Journal/Personal Journal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Home.md",
+                "file": "Spaces/Home/Personal Journal/Personal Journal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Home.md"
+                "file": "Spaces/Home/Personal Journal/Personal Journal.md"
               }
             }
           },
@@ -181,9 +178,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "35f317010cc86cfc",
+  "active": "521e6f8e122873f7",
   "lastOpenFiles": [
     "Spaces/Home/Home.md",
+    "Spaces/Home/Personal Journal/Personal Journal.md",
+    "Spaces/Home/Personal Journal/Friday Chat Explanation for Gopali.md",
     "Untitled.canvas",
     "2023-12-15.md",
     "Untitled.md",
@@ -197,7 +196,6 @@
     "Spaces/Home/PsychologyPhilosophy/PsychologyPhilosophy.md",
     "Spaces/Home/PsychologyPhilosophy/Emotions in the Modern world.md",
     "Spaces/Home/Personal Journal/Pills to swallow(Reality hurts).md",
-    "Spaces/Home/Personal Journal/Personal Journal.md",
     "Spaces/Home/PsychologyPhilosophy/Neuromodulators.md",
     "Spaces/Home/PsychologyPhilosophy/The Habit Forming Loop.md",
     "Spaces/Home/PsychologyPhilosophy/Chunking.md",
@@ -214,7 +212,6 @@
     "Spaces/Home/Personal Journal/Drawing 2023-12-13 21.06.54.excalidraw.md",
     "Spaces/Home/Personal Journal/Stuff to ask Gopali.md",
     "Spaces/Home/Personal Journal/Drawing 2023-12-13 20.49.11.excalidraw.md",
-    "Spaces/Home/Personal Journal/Friday Chat Explanation for Gopali.md",
     "Spaces/Home/Web Design/Chemistry.md",
     "conflict-files-obsidian-git.md",
     "Spaces/Home/Personal Journal/18-12-23.md",
