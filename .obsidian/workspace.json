@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "09249af3d38e5562",
+        "id": "0b00512118a09f7f",
         "type": "tabs",
         "children": [
           {
-            "id": "5b4f53a0c3885e33",
+            "id": "3adcb31b22ded685",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Spaces/Home"
+                "file": "Spaces/Home/Home.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spaces/Home/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spaces/Home/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spaces/Home/Home.md"
+              }
             }
           },
           {
@@ -177,7 +183,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5b4f53a0c3885e33",
+  "active": "3adcb31b22ded685",
   "lastOpenFiles": [
     "Spaces/Home/Home.md",
     "Spaces/Home/Personal Journal/Personal Journal.md",
