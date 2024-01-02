@@ -36,7 +36,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "Spaces/Home/Spaces/Home/Journal"
+    "Spaces/Home/Spaces/Home/Journal",
+    "Spaces/Home/Spaces/Home/Web Design"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
